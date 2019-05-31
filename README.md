@@ -14,7 +14,8 @@ Week 4 Assignment
    ex:   python Server.py
    
 5.  On the other terminal, we will run the client connection by running the Client.py file via Python. 
-
+   ex: python Client.py
+   
 6. Once the connection on the client side is established, you will start seeing some acknowledgements.  On the client side, please type in  a random string.  
 
 7. The server will receive the string and will send you 'Hi', if the string you sent was 'Hello'.  Otherwise, the server will send a string of 'Goodbye'.  
